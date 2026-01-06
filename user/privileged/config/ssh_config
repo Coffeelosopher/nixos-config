@@ -1,0 +1,10 @@
+# MySSH Config
+
+
+## Extentions
+Host *
+	User root
+	ForwardX11 yes
+	ForwardAgent yes
+	PubKeyAcceptedKeyTypes +ssh-rsa
+	HostkeyAlgorithms +ssh-rsa
