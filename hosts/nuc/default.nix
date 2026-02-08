@@ -18,6 +18,9 @@
 
     # Packages
     ../../modules/software/packages/system/complete.nix
+
+    # Editor
+    ../../modules/software/editors/neovim/default.nix
     
   ];
 
