@@ -31,7 +31,6 @@
   # root ssh key
   users.users.root.openssh.authorizedKeys.keys = [
     "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILRamh4k5eDwjYopD889LnxlEJVFsjJuOeTxvbMSZMMK nico.nicklis@icloud.com"
-    "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIADy6xPj2lAjifdxgYHlHDPg1KPDtI/qGGKil9EXx0r2 micha@DESKTOP-0EH0FPM"
   ];
   
   # hostName
